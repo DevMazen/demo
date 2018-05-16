@@ -1,0 +1,19 @@
+[
+	{
+		"$id":"1","Person_ID":1,"Person_Name":"Mazen","Person_Mobile":"01098335336","Person_Gender":true,"Person_NationalID":"68464864684","Person_Image":null,"Person_Balance":56456.0000,"Person_Rate":5,"Person_Type":"1","Person_Company":2,"Emp_UserName":"Dev","Emp_Password":"123","Department_ID":1,"Jop_ID":1,"Emp_StartWorkDate":"2018-01-04T00:00:00","Emp_EndWorkDate":null,"Emp_Rate":5
+	}
+	,
+	
+	{
+		"$id":"2","Person_ID":2,"Person_Name":"Mohammed","Person_Mobile":"012","Person_Gender":true,"Person_NationalID":"65846846684","Person_Image":null,"Person_Balance":654.0000,"Person_Rate":5,"Person_Type":"1","Person_Company":2,"Emp_UserName":"Mo","Emp_Password":"123","Department_ID":1,"Jop_ID":1,"Emp_StartWorkDate":"2018-01-04T00:00:00","Emp_EndWorkDate":null,"Emp_Rate":5
+	}
+	,
+	{
+		"$id":"3","Person_ID":3,"Person_Name":"Miena","Person_Mobile":"5214","Person_Gender":true,"Person_NationalID":"65845645468","Person_Image":null,"Person_Balance":515.0000,"Person_Rate":5,"Person_Type":"1","Person_Company":1,"Emp_UserName":"Miena","Emp_Password":"123","Department_ID":2,"Jop_ID":2,"Emp_StartWorkDate":"2013-01-03T00:00:00","Emp_EndWorkDate":null,"Emp_Rate":5
+	}
+	,
+	{
+		"$id":"4","Person_ID":5,"Person_Name":"Samy","Person_Mobile":"854185","Person_Gender":true,"Person_NationalID":"58418541858","Person_Image":null,"Person_Balance":854158.0000,"Person_Rate":5,"Person_Type":"Client","Person_Company":2,"Emp_UserName":"Samy","Emp_Password":"123","Department_ID":5,"Jop_ID":5,"Emp_StartWorkDate":"2013-01-01T00:00:00","Emp_EndWorkDate":null,"Emp_Rate":5
+	}
+
+]
